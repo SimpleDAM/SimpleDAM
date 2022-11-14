@@ -36,7 +36,7 @@ Level 1 features are not necessary for the basics of getting assets into and out
 ## Getting started
 Having played around with the test application and seen what JSON data it returns, the easiest way to get started is to download the front-end source code and start to implement server-side handlers for processing the calls issued to it.  When your front-end is connected to your implementation of SimpleDAM, it should behave in a more or less identical way to the test application.
 
-If you are a tool vendor, you can use the demo application to build a SimpleDAM connector which should work with any other DAM which follows the same protocol.  We have a testbed/sandbox where it is possible to issue SimpleDAM calls which developers might find useful also, this is [link].
+If you are a tool vendor, you can use the demo application to build a SimpleDAM connector which should work with any other DAM which follows the same protocol.  We have a testbed/sandbox where it is possible to issue SimpleDAM calls which developers might find useful also, this can be found here: https://simpledam.damnews.org/api-sandbox (login required).
 
 We fully expect problems and issues to come to light.  The place to discuss these is on the SimpleDAM Google Group, which we strongly encourage you to join.
 
